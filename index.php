@@ -17,13 +17,9 @@
 
 
     <!-- Favicons -->
-
-<link rel="apple-touch-icon" href="/docs/5.0/assets/img/favicons/apple-touch-icon.png" sizes="180x180">
-<link rel="icon" href="/docs/5.0/assets/img/favicons/favicon-32x32.png" sizes="32x32" type="image/png">
-<link rel="icon" href="favicon-16x16.png" sizes="16x16" type="image/png">
+<link rel="icon" href="images/favicon-16x16.png" sizes="16x16" type="image/png">
 <link rel="manifest" href="/docs/5.0/assets/img/favicons/manifest.json">
 <link rel="mask-icon" href="/docs/5.0/assets/img/favicons/safari-pinned-tab.svg" color="#7952b3">
-<link rel="icon" href="/docs/5.0/assets/img/favicons/favicon.ico">
 <meta name="theme-color" content="#7952b3">
 
 
@@ -66,7 +62,7 @@
 
 <main  >
   <div class="position-relative overflow-hidden p-0 p-md-0 m-md-0 text-center ">
-  <div style="background-image: url('bg1.jpg');background-repeat: no-repeat;background-size: 100% 115%;" ;background-repeat:="" "no-repeat";="" background-size:="" "cover";="">
+  <div style="background-image: url('images/bg1.jpg');background-repeat: no-repeat;background-size: 100% 115%;" ;background-repeat:="" "no-repeat";="" background-size:="" "cover";="">
    
     <div class="col-md-5 p-lg-5 mx-auto my-5">
       <br><br>
